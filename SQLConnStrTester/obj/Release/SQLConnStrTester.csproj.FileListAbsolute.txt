@@ -1,0 +1,7 @@
+C:\Users\mirasmus\source\repos\SQLConnStrTester\SQLConnStrTester\bin\Release\SQLConnStrTester.exe.config
+C:\Users\mirasmus\source\repos\SQLConnStrTester\SQLConnStrTester\bin\Release\SQLConnStrTester.exe
+C:\Users\mirasmus\source\repos\SQLConnStrTester\SQLConnStrTester\bin\Release\SQLConnStrTester.pdb
+C:\Users\mirasmus\source\repos\SQLConnStrTester\SQLConnStrTester\obj\Release\SQLConnStrTester.csprojAssemblyReference.cache
+C:\Users\mirasmus\source\repos\SQLConnStrTester\SQLConnStrTester\obj\Release\SQLConnStrTester.csproj.CoreCompileInputs.cache
+C:\Users\mirasmus\source\repos\SQLConnStrTester\SQLConnStrTester\obj\Release\SQLConnStrTester.exe
+C:\Users\mirasmus\source\repos\SQLConnStrTester\SQLConnStrTester\obj\Release\SQLConnStrTester.pdb
